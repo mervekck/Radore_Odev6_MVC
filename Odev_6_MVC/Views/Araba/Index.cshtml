@@ -1,0 +1,35 @@
+﻿@model List<Odev_6_MVC.Models.Araba>
+
+@{
+    ViewData["Title"] = "Araba Listesi";
+}
+
+<div class="container">
+    <h2>Araba Listesi</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <div id="successMessage" class="alert alert-success">
+            @TempData["Success"]
+        </div>
+    }
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Marka</th>
+                <th>Model</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var araba in Model)
+            {
+                <tr>
+                    <td>@araba.Marka</td>
+                    <td>@araba.Model</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Yeni Araba Ekle</a>
+</div>

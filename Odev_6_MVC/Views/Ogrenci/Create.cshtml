@@ -1,0 +1,42 @@
+﻿@model Odev_6_MVC.Models.Ogrenci
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="containerCreate">
+    <div class="card">
+        <h4>Ögrenci Kayıt Ekranı</h4>
+        <hr />
+        <div class="row">
+            <div class="col-md-12">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="Adi" class="control-label"></label>
+                        <input asp-for="Adi" class="form-control" />
+                        <span asp-validation-for="Adi" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Soyadi" class="control-label"></label>
+                        <input asp-for="Soyadi" class="form-control" />
+                        <span asp-validation-for="Soyadi" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Bolum" class="control-label"></label>
+                        <input asp-for="Bolum" class="form-control" />
+                        <span asp-validation-for="Bolum" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

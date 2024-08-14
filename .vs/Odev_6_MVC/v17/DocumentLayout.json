@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\odev_6_mvc\\odev_6_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|solutionrelative:odev_6_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\odev_6_mvc\\odev_6_mvc\\views\\araba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|solutionrelative:odev_6_mvc\\views\\araba\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\odev_6_mvc\\odev_6_mvc\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|solutionrelative:odev_6_mvc\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\odev_6_mvc\\odev_6_mvc\\controllers\\arabacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|solutionrelative:odev_6_mvc\\controllers\\arabacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|c:\\users\\merve\\desktop\\radorebootcamp\\odev_6_mvc\\odev_6_mvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C437B914-5F06-4391-AE9F-3584E8867D58}|Odev_6_MVC\\Odev_6_MVC.csproj|solutionrelative:odev_6_mvc\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 351,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Odev_6_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Odev_6_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T19:49:35.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Views\\Araba\\Index.cshtml",
+              "RelativeDocumentMoniker": "Odev_6_MVC\\Views\\Araba\\Index.cshtml",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Views\\Araba\\Index.cshtml",
+              "RelativeToolTip": "Odev_6_MVC\\Views\\Araba\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T19:47:48.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "Odev_6_MVC\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "Odev_6_MVC\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T19:45:51.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "Odev_6_MVC\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "Odev_6_MVC\\Controllers\\OgrenciController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:43:55.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArabaController.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Controllers\\ArabaController.cs",
+              "RelativeDocumentMoniker": "Odev_6_MVC\\Controllers\\ArabaController.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\RadoreBootcamp\\Odev_6_MVC\\Odev_6_MVC\\Controllers\\ArabaController.cs",
+              "RelativeToolTip": "Odev_6_MVC\\Controllers\\ArabaController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T19:43:54.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

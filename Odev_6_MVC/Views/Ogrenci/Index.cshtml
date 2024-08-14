@@ -1,0 +1,37 @@
+﻿@model List<Odev_6_MVC.Models.Ogrenci>
+
+@{
+    ViewData["Title"] = "Öğrenci Listesi";
+}
+
+<div class="container">
+    <h2>Öğrenci Listesi</h2>
+
+    @if (TempData["Success"] != null)
+    {
+        <div id="successMessage" class="alert alert-success">
+            @TempData["Success"]
+        </div>
+    }
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Adı</th>
+                <th>Soyadı</th>
+                <th>Bölüm</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ogrenci in Model)
+            {
+                <tr>
+                    <td>@ogrenci.Adi</td>
+                    <td>@ogrenci.Soyadi</td>
+                    <td>@ogrenci.Bolum</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Yeni Öğrenci Ekle</a>
+</div>
